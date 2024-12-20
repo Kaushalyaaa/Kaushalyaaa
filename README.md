@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalyaaa" /> </p>
 
-- <p><img src="https://camo.githubusercontent.com/4d22084f4c2e14798d5204869153d4d61750ff3a41736c2e616d92be2a91004c/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f7375706572737461722d33326364612e61707073706f742e636f6d2f6f2f747970696e672e6769663f616c743d6d6564696126746f6b656e3d32376561386366622d343364362d346265332d393163302d393734303761646663373136" alt="Working GIF" width="30" height="30"> I’m currently working on my portfolio.>
+- <p><img src="https://camo.githubusercontent.com/4d22084f4c2e14798d5204869153d4d61750ff3a41736c2e616d92be2a91004c/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f7375706572737461722d33326364612e61707073706f742e636f6d2f6f2f747970696e672e6769663f616c743d6d6564696126746f6b656e3d32376561386366622d343364362d346265332d393163302d393734303761646663373136" alt="Working GIF" width="30" height="30"> I’m currently working on my portfolio.
 </p>
 
 - <p>
@@ -69,11 +69,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
